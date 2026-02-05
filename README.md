@@ -1,1 +1,1 @@
-SimWorx logo
+# SimWorx logo
